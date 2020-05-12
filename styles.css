@@ -145,6 +145,8 @@ body {
     padding: 30px;
     max-width: 90%;
     flex: 1;
+    flex-wrap: wrap;
+
 }
 
 .about-item {
@@ -152,8 +154,10 @@ body {
     flex-direction: column;
     align-items: center;
     margin-top: 20px;
-    width: 25%;
+    width: 23%;
     padding: 10px;
+    flex-wrap: wrap;
+    flex: 1;
 }
 
 .about-item image {

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf9b2057-9eb2-4fe2-a338-d8eac76075f1" name="Default Changelist" comment="" />
+    <list default="true" id="bf9b2057-9eb2-4fe2-a338-d8eac76075f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lamagame.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/yasmin.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/yasmin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot_end.html" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_end.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot_game.html" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot_lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,15 +26,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bcm339jrzqbxy73xmQtNDzyKg6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../gruppe-3" />
@@ -49,16 +68,20 @@
       <updated>1588939553891</updated>
       <workItem from="1588939555411" duration="75560000" />
       <workItem from="1589205409867" duration="19000" />
+      <workItem from="1589209741771" duration="4586000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="238" y="253" key="FileChooserDialogImpl" timestamp="1589199453252">
+    <state x="238" y="253" key="FileChooserDialogImpl" timestamp="1589211718706">
       <screen x="0" y="0" width="1829" height="989" />
     </state>
-    <state x="238" y="253" key="FileChooserDialogImpl/0.0.1829.989@0.0.1829.989" timestamp="1589199453252" />
+    <state x="238" y="253" key="FileChooserDialogImpl/0.0.1829.989@0.0.1829.989" timestamp="1589211718706" />
   </component>
 </project>
