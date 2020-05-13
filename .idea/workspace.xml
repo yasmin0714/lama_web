@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf9b2057-9eb2-4fe2-a338-d8eac76075f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lamagame.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/yasmin.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/yasmin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot_end.html" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_end.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot_game.html" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_game.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot_lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lamagame.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lamagame.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +18,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,8 +64,23 @@
       <updated>1588939553891</updated>
       <workItem from="1588939555411" duration="75560000" />
       <workItem from="1589205409867" duration="19000" />
-      <workItem from="1589209741771" duration="4586000" />
+      <workItem from="1589209741771" duration="20205000" />
     </task>
+    <task id="LOCAL-00001" summary="new sizes of logo and images.">
+      <created>1589264314497</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589264314497</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new layout and lama.png and trailer.mp4">
+      <created>1589297246779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589297246779</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,11 +88,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="new sizes of logo and images." />
+    <MESSAGE value="new layout and lama.png and trailer.mp4" />
+    <option name="LAST_COMMIT_MESSAGE" value="new layout and lama.png and trailer.mp4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="238" y="253" key="FileChooserDialogImpl" timestamp="1589211718706">
+    <state x="337" y="89" key="CommitChangelistDialog2" timestamp="1589297244982">
       <screen x="0" y="0" width="1829" height="989" />
     </state>
-    <state x="238" y="253" key="FileChooserDialogImpl/0.0.1829.989@0.0.1829.989" timestamp="1589211718706" />
+    <state x="337" y="89" key="CommitChangelistDialog2/0.0.1829.989@0.0.1829.989" timestamp="1589297244982" />
+    <state x="238" y="253" key="FileChooserDialogImpl" timestamp="1589361980061">
+      <screen x="0" y="0" width="1829" height="989" />
+    </state>
+    <state x="238" y="253" key="FileChooserDialogImpl/0.0.1829.989@0.0.1829.989" timestamp="1589361980061" />
+    <state x="21" y="209" key="RollbackChangesDialog" timestamp="1589282282593">
+      <screen x="0" y="0" width="1829" height="989" />
+    </state>
+    <state x="21" y="209" key="RollbackChangesDialog/0.0.1829.989@0.0.1829.989" timestamp="1589282282593" />
+    <state x="80" y="170" key="Vcs.Push.Dialog.v2" timestamp="1589297258311">
+      <screen x="0" y="0" width="1829" height="989" />
+    </state>
+    <state x="80" y="170" key="Vcs.Push.Dialog.v2/0.0.1829.989@0.0.1829.989" timestamp="1589297258311" />
   </component>
 </project>
