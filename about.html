@@ -4,7 +4,21 @@
     <head>
         <meta charset="UTF-8">
         <title>Lama | About</title>
-        <link rel="stylesheet" href="styles.css">
+        <link id="pageStyle" rel="stylesheet" type="text/css" href="style_large.css">
+        <script type="text/javascript">
+            function layoutHandler() {
+                var styleLink = document.getElementById("pageStyle");
+                if(window.innerWidth < 700) { // this.innerWidth <-> window.innerWidth
+                    styleLink.setAttribute("href", "style_mobile.css");
+                } else if(this.innerWidth < 1550) {
+                    styleLink.setAttribute("href", "style_medium.css");
+                } else {
+                    styleLink.setAttribute("href", "style_large.css");
+                }
+            }
+            window.onresize = layoutHandler;
+            layoutHandler();
+        </script>
     </head>
 
     <body>
@@ -49,19 +63,19 @@
                 </div>
 
                 <div class="about-item">
-                    <img src="resources/yasmin.png" width="320" height="370">
+                    <img src="resources/yasmin.png" width="300" height="370">
                     <div class="text">Yasmin Meier <br> 14.07.1993</div><br>
                     <div class="text-sub">Likes to discuss with cozy lamas while tasting wine</div>
                 </div>
 
                 <div class="about-item">
-                    <img src="resources/esther.png" width="330" height="370">
+                    <img src="resources/esther.png" width="300" height="370">
                     <div class="text">Esther Mugdan <br> 18.03.2001</div><br>
                     <div class="text-sub">Likes black leather lamas that spit mate</div>
                 </div>
 
                 <div class="about-item">
-                    <img src="resources/neha.png" width="320" height="370">
+                    <img src="resources/neha.png" width="300" height="370">
                     <div class="text">Neha Selvan <br> 15.12.2000</div><br>
                     <div class="text-sub">Likes blue violin playing lamas with a  glittery rainbow coloured horn</div>
                 </div>

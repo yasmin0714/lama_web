@@ -4,8 +4,23 @@
     <head>
         <meta charset="UTF-8">
         <title>Lama | Home</title>
-        <link rel="stylesheet" href="styles.css">
-        <script src="script.js"></script>
+        <link id="pageStyle" rel="stylesheet" type="text/css" href="style_large.css">
+        <script type="text/javascript">
+            function layoutHandler() {
+                var styleLink = document.getElementById("pageStyle");
+                if(window.innerWidth < 700) { // this.innerWidth <-> window.innerWidth
+                    styleLink.setAttribute("href", "style_mobile.css");
+                } else if(this.innerWidth < 1200) {
+                    styleLink.setAttribute("href", "style_mediumsmall.css");
+                } else if(this.innerWidth < 1550) {
+                    styleLink.setAttribute("href", "style_medium.css");
+                } else {
+                    styleLink.setAttribute("href", "style_large.css");
+                }
+            }
+            window.onresize = layoutHandler;
+            layoutHandler();
+        </script>
     </head>
 
     <body>

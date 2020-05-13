@@ -3,8 +3,22 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Lama | About The Game</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Lama | Sneak Peek</title>
+    <link id="pageStyle" rel="stylesheet" type="text/css" href="style_large.css">
+    <script type="text/javascript">
+        function layoutHandler() {
+            var styleLink = document.getElementById("pageStyle");
+            if(window.innerWidth < 700) { // this.innerWidth <-> window.innerWidth
+                styleLink.setAttribute("href", "style_mobile.css");
+            } else if(this.innerWidth < 1550) {
+                styleLink.setAttribute("href", "style_medium.css");
+            } else {
+                styleLink.setAttribute("href", "style_large.css");
+            }
+        }
+        window.onresize = layoutHandler;
+        layoutHandler();
+    </script>
 </head>
 
 <body>
@@ -52,7 +66,25 @@
                     </a>
                 </div>
 
-                <img src="resources/game_screenshot.png" height="543" width="800">
+                <img src="resources/game_screenshot.png" height="543" width="800" id="game">
+
+                <script type="text/javascript">
+                    function imageSizeHandler() {
+                        var imageSize = document.getElementById("game");
+                        if(window.innerWidth < 700) { // this.innerWidth <-> window.innerWidth
+                            imageSize.setAttribute("width", "250");
+                            imageSize.setAttribute("height", "200");
+                        } else if(this.innerWidth < 1550) {
+                            imageSize.setAttribute("width", "550");
+                            imageSize.setAttribute("height", "400");
+                        } else {
+                            imageSize.setAttribute("width", "780");
+                            imageSize.setAttribute("height", "543");
+                        }
+                    }
+                    window.onresize = imageSizeHandler;
+                    imageSizeHandler()
+                </script>
 
                 <div class="go-to-link">
                     <a href="screenshot_end.html">

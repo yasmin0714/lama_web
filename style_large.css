@@ -155,9 +155,6 @@ body {
     padding: 10px;
 }
 
-image {
-    border-radius: 8px;
-}
 
 /*used for descriptions*/
 .text-sub {
@@ -222,3 +219,4 @@ image {
     background-color: #f0fbff;
     color: #8a8a8a;
 }
+

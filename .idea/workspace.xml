@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf9b2057-9eb2-4fe2-a338-d8eac76075f1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style_medium.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style_mediumsmall.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style_mobile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lamagame.jar" beforeDir="false" afterPath="$PROJECT_DIR$/lamagame.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/esther.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/esther.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/neha.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/neha.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/yasmin.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/yasmin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot_end.html" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_end.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot_game.html" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot_lounge.html" beforeDir="false" afterPath="$PROJECT_DIR$/screenshot_lounge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/style_large.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +25,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -64,7 +73,7 @@
       <updated>1588939553891</updated>
       <workItem from="1588939555411" duration="75560000" />
       <workItem from="1589205409867" duration="19000" />
-      <workItem from="1589209741771" duration="20205000" />
+      <workItem from="1589209741771" duration="27945000" />
     </task>
     <task id="LOCAL-00001" summary="new sizes of logo and images.">
       <created>1589264314497</created>
@@ -86,6 +95,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new sizes of logo and images." />
@@ -93,6 +113,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="new layout and lama.png and trailer.mp4" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1102" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589373475630">
+      <screen x="0" y="0" width="1829" height="989" />
+    </state>
+    <state x="1102" y="245" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1829.989@0.0.1829.989" timestamp="1589373475630" />
     <state x="337" y="89" key="CommitChangelistDialog2" timestamp="1589297244982">
       <screen x="0" y="0" width="1829" height="989" />
     </state>
